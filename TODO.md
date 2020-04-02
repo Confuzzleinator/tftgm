@@ -1,3 +1,6 @@
+### v0.1.1
+- Match consist of a configurable number of games
+
 ### v0.2
 - Reorganize game standings system
     - Move logic from GameResult.vue to result.ts
